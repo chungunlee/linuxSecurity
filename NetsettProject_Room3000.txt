@@ -7,7 +7,24 @@ date. 2023.12.01
 Pc, Network device, Software etc.
 
 Hardware part
-- HW admin. Mr.Hw 
+- HW admin. Mr.Hw
+
+Date: 23.12.01
+HW device
+- network model: cisco. hp, netgear
+Switch
+
+2. switch device count
+3. switch price ?
+
+Router
+1. Router price
+2. Router: L3 switch, Router
+
+firewall
+
+Software Part
+
 
 
 Software Part
